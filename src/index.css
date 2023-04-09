@@ -22,3 +22,9 @@
 .card-video-hover {
    position: relative;
 }
+
+body{
+   background-image: url("https://media.istockphoto.com/id/1367756031/vector/light-blue-watercolor-background-illustration.jpg?s=612x612&w=0&k=20&c=qiJl7j-2terwHd-1YJxiFIo1VJx6l6IsmoqlgeypQ7c=");
+   background-repeat: no-repeat; 
+   background-size: cover; 
+}
